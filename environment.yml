@@ -31,6 +31,8 @@ dependencies:
     - perceptual==0.1
     - pillow==8.4.0
     - scikit-image==0.17.2
+    - mamba-ssm
+    - causal-conv1d
     - scipy==1.5.4
     - tifffile==2020.9.3
     - timm==0.3.2
